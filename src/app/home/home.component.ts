@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
  
-import * as NFC from 'nfc-pcsc';
+import  * as NFC from 'nfc-pcsc';
 
 @Component({
   selector: 'app-home',
